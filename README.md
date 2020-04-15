@@ -2,7 +2,7 @@
 
 This project uses Reinforcement Learning to play Space Invaders an atari game. 
 
-The implementation uses - 
+The implementation uses :
 - Convolutional Neural Networks (Pytorch)
 - Model Replacement
 - Experience replay 
